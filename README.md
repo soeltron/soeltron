@@ -19,4 +19,7 @@ Hi, I'm Sulton. This GitHub is for documenting my code and projects.
 [![](https://visitcount.itsvg.in/api?id=soeltron&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Soeltron;Laravel+Developer;Web+Enthusiast" />
+</p>
 
