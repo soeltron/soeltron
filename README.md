@@ -20,7 +20,3 @@ Hi, I'm Sulton. This GitHub is for documenting my code and projects.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/soeltron/soeltron/blob/output/github-contribution-grid-snake.svg)
