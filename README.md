@@ -20,6 +20,13 @@ Hi, I'm Sulton. This GitHub is for documenting my code and projects.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Soeltron;Laravel+Developer;Web+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Soeltron;Laravel+Developer;" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soeltron&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=soeltron&theme=tokyonight" />
+</p>
+
 
