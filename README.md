@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Sulton+This+Github+for+documenting+my+code+and+project;😊😊😊;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I%27m+Sulton+Junior+Developer;Happy+Coding+%3A%29+%3A%29+%3A%29" />
 </p>
 
 ## 🌐 Socials:
