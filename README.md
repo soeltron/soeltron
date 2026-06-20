@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:404040,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Soeltron's%20Github&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=62&descSize=24" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:404040,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Soeltron's%20Github&fontSize=32&fontColor=ffffff&fontFamily=Verdana&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=62&descSize=24" width="100%"/>
 
 <p>
 <a href="https://www.instagram.com/soeltron" target="_blank">
@@ -19,7 +19,7 @@
 
 ---
 
-### ⬛ About Me
+### About Me
 
 Hi there! I'm **Soeltron**, a Computer Engineering student driven by curiosity — always exploring new technologies and eager to learn how things work under the hood.
 
@@ -27,7 +27,7 @@ I enjoy turning ideas into real, functional projects, and I'm constantly looking
 
 ---
 
-### ⬜ Technologies
+### Technologies
 
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -47,14 +47,16 @@ I enjoy turning ideas into real, functional projects, and I'm constantly looking
 
 ---
 
-### ⬛ Statistics
+### Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soeltron&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeltron&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
-
 <img src="https://streak-stats.demolab.com?user=soeltron&theme=transparent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&dates=999999&sideNums=ffffff" width="70%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=soeltron&show_icons=true&theme=github_dark&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeltron&layout=donut&theme=github_dark&hide_border=true" width="40%"/>
 
 <br><br>
 
