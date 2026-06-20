@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:404040,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Soeltron's%20Github&fontSize=32&fontColor=ffffff&fontFamily=Verdana&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=62&descSize=24" width="100%"/>
+<img src=" https://id.pinterest.com/pin/170855379606779173/
+type=waving&color=0:000000,50:404040,100:1a1a1a&height=200&section=header&text=Welcome%20to%20Soeltron's%20Github&fontSize=32&fontColor=ffffff&fontFamily=Verdana&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=62&descSize=24" width="100%"/>
 
 <p>
 <a href="https://www.instagram.com/soeltron" target="_blank">
@@ -9,13 +10,11 @@
 <a href="https://github.com/soeltron" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:youremail@example.com" target="_blank">
-<!-- ganti youremail@example.com dengan email kamu -->
+<a href="sultonba164@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-404040?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
-</div>
 
 ---
 
@@ -29,14 +28,14 @@ I enjoy turning ideas into real, functional projects, and I'm constantly looking
 
 ### Technologies
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-262626?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/Python-404040?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/Laravel-4d4d4d?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Bootstrap-595959?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -48,7 +47,7 @@ I enjoy turning ideas into real, functional projects, and I'm constantly looking
 ---
 
 ### Statistics
-
+</div>
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=soeltron&theme=transparent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=cccccc&sideLabels=cccccc&dates=999999&sideNums=ffffff" width="70%"/>
