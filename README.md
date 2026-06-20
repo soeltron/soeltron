@@ -1,21 +1,95 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I%27m+Sulton+Junior+Developer;Happy+Coding+%3A%29+%3A%29+%3A%29" />
+<div align="center">
+
+<!-- 🖼️ BANNER — ganti src ini dengan link gambar/art kamu sendiri nanti -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a148c,100:8b0000&height=200&section=header&text=Soeltron&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Curious+Mind+%7C+Lifelong+Learner;Turning+Ideas+Into+Code" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=soeltron&color=9d4edd&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br>
+
+### 🟥 About Me
+
+I'm a **Computer Engineering** student driven by curiosity — always exploring new technologies and eager to learn how things work under the hood.
+
+I enjoy turning ideas into real, functional projects, and I'm constantly looking for new things to dive into, from web development to whatever sparks my interest next.
+
+<br>
+
+### 🟦 Daily Driver
+
+<p align="left">
+<img src="https://img.shields.io/badge/VS%20Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=9d4edd" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Antigravity-8b0000?style=for-the-badge&logoColor=white" alt="Antigravity"/>
+<!-- tambahkan tools lain di sini, format:
+<img src="https://img.shields.io/badge/NamaTool-WARNA?style=for-the-badge&logo=NAMALOGO&logoColor=white"/> -->
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soeltron) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sulton Rizky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultonba164@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soeltron&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soeltron&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soeltron&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🟪 Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soeltron&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=soeltron&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🟥 Languages & Tools I Have Placed My Hands On
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,php,python,laravel,bootstrap,vscode&theme=dark" alt="Skills"/>
+</p>
+
+<!-- cara tambah ikon lain: tinggal sisipkan namanya (huruf kecil, pisah koma) di parameter i= pada URL di atas.
+Daftar nama yang didukung ada di https://skillicons.dev -->
+
+<br>
+
+### 🟦 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soeltron&show_icons=true&theme=transparent&hide_border=true&title_color=ff6b6b&icon_color=9d4edd&text_color=e0e0e0&bg_color=45,1a1a2e,4a148c,8b0000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soeltron&layout=compact&theme=transparent&hide_border=true&title_color=ff6b6b&text_color=e0e0e0&bg_color=45,1a1a2e,4a148c,8b0000" width="40%"/>
+
+<img src="https://streak-stats.demolab.com?user=soeltron&theme=transparent&hide_border=true&background=00000000&ring=9d4edd&fire=ff6b6b&currStreakLabel=e0e0e0&sideLabels=e0e0e0&dates=e0e0e0&sideNums=ff6b6b&currStreakNum=ff6b6b" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soeltron&theme=react-dark&hide_border=true&bg_color=00000000&color=ff6b6b&line=9d4edd&point=ffffff&area=true&area_color=4a148c" width="95%"/>
+
+</div>
+
+<br>
+
+### 🟪 Pinned Repositories
+
+> Pin repo favoritmu langsung lewat menu **"Customize your pins"** di halaman profil GitHub kamu — ini lebih akurat daripada di-generate manual, dan otomatis ter-update kalau repo berubah.
+
+<br>
+
+### 🟥 Connect With Me
+
+<p align="left">
+<a href="https://www.instagram.com/soeltron" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/soeltron" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=9d4edd" alt="GitHub"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+<!-- ganti youremail@example.com dengan email kamu -->
+<img src="https://img.shields.io/badge/Email-4a148c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:4a148c,100:1a1a2e&height=100&section=footer" width="100%"/>
+</div>
